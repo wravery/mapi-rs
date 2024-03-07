@@ -23,7 +23,7 @@ olmapi32 = [ "outlook-mapi-sys/olmapi32" ]
 [dependencies]
 outlook-mapi-macros = "0.2.0"
 outlook-mapi-sys = { version = "0.4.0", default-features = false }
-windows-core = "0.54"
+windows-core = "0.55"
 windows-implement = "0.53"
 windows-interface = "0.53"
 
